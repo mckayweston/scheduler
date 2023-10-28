@@ -1,0 +1,80 @@
+Enter person1_Schedule = [['7:00', '8:30'],  ['12:00', '13:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00'], ['16:00', '17:00']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['8:00', '8:30'],  ['11:00', '13:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00'], ['16:00', '17:00']]
+person2_DailyAct = ['8:30', '18:00']
+
+Enter duration_of_meeting = 90
+
+Enter person1_Schedule = [['10:00', '11:00'], ['12:00', '13:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['10:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00']]
+person2_DailyAct = ['9:00', '15:00']
+
+Enter duration_of_meeting = 10
+
+Enter person1_Schedule = [['10:00', '15:00']]
+person1_DailyAct = ['10:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00']]
+person2_DailyAct = ['9:00', '15:00']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['9:30', '11:30'], ['12:00', '13:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '14:30']]
+person2_DailyAct = ['9:00', '17:00']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['7:00', '8:30'],  ['12:00', '13:00'], ['14:00', '15:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00'], ['16:00', '17:00']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['7:00', '8:30'],  ['10:50', '12:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00'], ['15:40', '17:00'], ['18:00', '18:30']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['7:25', '8:55'],  ['12:25', '13:25'],  ['16:25', '18:25']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:25', '10:55'],  ['12:45', '13:55'],  ['14:25', '15:25'], ['16:25', '17:25']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 30
+
+Enter person1_Schedule = [['9:00', '10:00'],  ['11:30', '13:00'],  ['16:00', '18:00']]
+person1_DailyAct = ['9:00', '19:00']
+
+Enter person2_Schedule = [['9:00', '10:30'],  ['12:20', '13:30'],  ['14:00', '15:00'], ['16:00', '17:00']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 45
+
+Enter person1_Schedule = [['7:00', '8:30'],  ['12:00', '13:00'],  ['15:30', '16:00']]
+person1_DailyAct = ['9:00', '16:00']
+
+Enter person2_Schedule = [['9:00', '10:45'],  ['12:20', '13:45'],  ['14:00', '15:00'], ['16:00', '17:00']]
+person2_DailyAct = ['9:00', '18:30']
+
+Enter duration_of_meeting = 25
+
